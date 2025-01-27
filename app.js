@@ -43,7 +43,7 @@ function storeValues(btnClass, btnText) {
     }
 }
 /**
- * Does the actualy calculations on the values assigned to firstNum and secondNum
+ * Does the actual calculations on the values assigned to firstNum and secondNum
  */
 function calculate() {
     //checks if user is pressing button with class equal and the rdyToGo value is true
